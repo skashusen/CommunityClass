@@ -11,5 +11,6 @@ git add .  # Add all files
 to comit the changes 
 git comit -m " message " # message should be short 
 
-
+git log # view comit history 
+git log --oneline 
 
