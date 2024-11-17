@@ -1,0 +1,15 @@
+git config --global user.name "Ashusen"
+git config --global user.email "skashusen@gmail.com"
+
+
+to Add file to staging Area 
+git add filename
+git add file1, file2, file3
+git add .  # Add all files 
+
+
+to comit the changes 
+git comit -m " message " # message should be short 
+
+
+
