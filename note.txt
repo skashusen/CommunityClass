@@ -14,3 +14,10 @@ git comit -m " message " # message should be short
 git log # view comit history 
 git log --oneline 
 
+git checkout main or master  # to go 
+git checkout #SHA key 
+
+# adding project at git hub 
+
+git remote add origin link 
+
